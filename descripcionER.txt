@@ -1,0 +1,4 @@
+Un diagrama de entidad-relación (ER) es una representación gráfica utilizada 
+en el diseño de bases de datos. Este tipo de diagrama es una herramienta fundamental en 
+el modelado de datos, ya que permite visualizar las entidades relevantes en un sistema, 
+sus atributos y las relaciones entre ellas.
